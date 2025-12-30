@@ -147,4 +147,3 @@ This project demonstrates how modern AI systems can be integrated responsibly in
 - DevSecOps: static analysis, containerization, and infrastructure as code
 - Backend Engineering: FastAPI-based orchestration and API design
 - Application Security: practical SAST concepts and vulnerability analysis
-# Cyber-Security-Analyzer
